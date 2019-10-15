@@ -1,0 +1,16 @@
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\ConsulWebApp.deps.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\ConsulWebApp.runtimeconfig.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\ConsulWebApp.runtimeconfig.dev.json
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\ConsulWebApp.dll
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\bin\Debug\netcoreapp2.1\ConsulWebApp.pdb
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.csprojAssemblyReference.cache
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.RazorAssemblyInfo.cache
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.RazorAssemblyInfo.cs
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.AssemblyInfoInputs.cache
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.AssemblyInfo.cs
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.dll
+C:\Projects\Web\MicroService\MicroService\ConsulWebApp\obj\Debug\netcoreapp2.1\ConsulWebApp.pdb

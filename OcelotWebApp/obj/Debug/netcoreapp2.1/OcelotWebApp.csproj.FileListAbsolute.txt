@@ -1,0 +1,17 @@
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\OcelotWebApp.deps.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\OcelotWebApp.runtimeconfig.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\OcelotWebApp.runtimeconfig.dev.json
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\OcelotWebApp.dll
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\OcelotWebApp.pdb
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.csprojAssemblyReference.cache
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.RazorAssemblyInfo.cache
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.RazorAssemblyInfo.cs
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.AssemblyInfoInputs.cache
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.AssemblyInfo.cs
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.dll
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\obj\Debug\netcoreapp2.1\OcelotWebApp.pdb
+C:\Projects\Web\MicroService\MicroService\OcelotWebApp\bin\Debug\netcoreapp2.1\Ocelot.json
